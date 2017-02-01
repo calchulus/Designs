@@ -1,6 +1,3 @@
 # Designs
-Putting attachments of all my designs
+Adding attachments of my designs
 
-
-
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
