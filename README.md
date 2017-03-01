@@ -5,4 +5,4 @@ Adding attachments of my designs
 
 [MycroChange App Preview Link] (https://creator.ionic.io/share/b6aa2b3ddffd)
 
-[MycroChange App Edit (https://creator.ionic.io/app/designer/b6aa2b3ddffd)
+[MycroChange App Edit] (https://creator.ionic.io/app/designer/b6aa2b3ddffd)
